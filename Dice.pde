@@ -18,7 +18,7 @@ void draw()
 }
 noStroke();
 fill(200);
-rect(410,650,250,35);
+rect(415,650,250,35);
 stroke(3);
 fill(0);
 textSize(30);
